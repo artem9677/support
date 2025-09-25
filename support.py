@@ -2,8 +2,6 @@ import telebot
 from telebot import types
 from datetime import datetime
 
-start
-
 # Токен support-бота (от @BotFather)
 SUPPORT_BOT = telebot.TeleBot("8286157115:AAF7JNApuvIO2L9603NfBu9vgzcIgXL7ZF0")  # Замени!
 
